@@ -1,2 +1,2 @@
 # testrepo
-creating test repo for demo
+use in Fundamentals of Web Development lab demo
